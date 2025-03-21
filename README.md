@@ -5,7 +5,7 @@
 
 2.[Features](#-features)
 
-3.[Project Structure](#-project-structure)+
+3.[Project Structure](#-project-structure)
 
 4.[Installation](#-installation)
 
@@ -71,12 +71,12 @@ This will generate an executable named `cub3d`.
 ## 🚀 Usage
 Run the program with the following command:
 ```sh
-./cub3d `path/to/your/map.cub`
+./cub3d path/to/your/map.cub`
 ```
-Example: `./cub3d maps/example.cub
+Example: `./cub3d maps/example.cub`
 
 ## 🔧 Built-in Mechanisms
-```sh
+
 | Functionality              | Description                                                                   |
 |----------------------------|-------------------------------------------------------------------------------|
 | **Raycasting**             | Uses raycasting to render a 3D perspective of the game environment.           |
@@ -85,7 +85,7 @@ Example: `./cub3d maps/example.cub
 | **Player Movement**        | Allows the player to move and rotate within the environment using keyboard inputs. |
 | **Wall Collisions (Bonus)**| Prevents the player from walking through walls by checking for intersections with walls. |
 | **Map Parsing**            | Reads and parses the `.cub` map file to create the game environment.          |
-```
+
 ## 🎮 Bonus Part
 In the bonus part, we tackled the implementation of wall collisions. While we have planned for other bonus features, such as a minimap, doors, animated sprites, and mouse-controlled rotation, only wall collisions were fully implemented in the project.
 
