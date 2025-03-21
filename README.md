@@ -104,6 +104,6 @@ We hope you enjoy exploring our world as much as we enjoyed building it! 🚀
 ## 👥 Contributors
 [**Tudor Ursescu**](https://github.com/Tudor-Ursescu)
 
-[**Tudor Lupu**](https://github.com/DRACULATudor)
+[**Tudor-Ioan Lupu**](https://github.com/DRACULATudor)
 ## 📜 License
 This is an open-source project. Feel free to use, modify, and distribute it as needed!
