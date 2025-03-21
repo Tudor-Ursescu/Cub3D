@@ -7,7 +7,7 @@
 
 3.[Project Structure](#-project-structure)
 
-4.[Installation](#-installation)
+4.[Setup](#-setup)
 
 5.[Usage](#-usage)
 
@@ -54,7 +54,7 @@ Cub3D/
 - mlx.zip/:
 This is a zipped version of the MiniLibX library, which is required for graphical rendering. The library includes basic functions to create windows, handle user input (keyboard and mouse), and work with images. To use it, the zip file must be extracted and compiled before linking it with the main project.
 
-## 🛠️ Installation
+## 🛠️ Setup
 To install and compile Cub3D, follow these steps:
 ```sh
 # Clone the repository
